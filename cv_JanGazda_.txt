@@ -1,0 +1,191 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Personal Information    
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Name:        Jan Gazda
+Street       Veldzicht 77
+Postcode:    1068SM
+City:        Amsterdam
+Tel:         +31682607099
+e-mail:      jenda.gazda@gmail.com
+Born:        13.02.1990
+Citizenship: Czech Republic
+linkedin:    https://www.linkedin.com/in/jangazda
+github:      https://github.com/1oglop1
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Education
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+University: VŠB – Technical University of Ostrava
+Faculty:    Faculty of Electrical Engineering and
+            Computer Science
+Department: Department of Telecomunications.
+Title:      Bachelor (Bc.)
+Year:       2011-2014
+Thesis:     Complex Network Analysis of Evolutionary
+            Algorithms Applied to Combinatorial 
+            Optimization Problem
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Work Experience - professional
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Date:    July 2016 - present
+Type:    Full-time
+Company: Sapienza Consulting BV, Netherlands
+Title: Eclipse support & Office Technician
+Description: 1.st and 2.nd line support of our product ECLIPSE, providing help to the end users, 
+	     gathering suggestions and complaints to make the product better.
+	     Responsibility for office IT equipment, workstations, servers, network.
+	     Implementation of lifecycle inventory management with CMDBuild, resolving of daily problems,
+	     server checks, installations, making preparations for ISO 27001.
+		
+	     
+
+Date:    August 2015 - Feb 2016
+Type:    Full-time
+Company: Tieto, Czech Republic
+Title:   Integration Specialist, Platform Admin
+Description.:   Our team provided document conversion in B2B EDI
+         messaging for customers and their supliers,
+         using third party software
+Technologies: HP-UX, AIX, TradeXpress,
+              Axway Integration Broker, TONE, LYNC
+              ITIL processes, XML, EDIFACT, PDF
+Achievements: Migration of many connections
+              from X400 to FTP,
+              Customers were migrated from old TX to
+              newer version
+
+
+Date:    July 2014 - July 2015
+Type:    Part-Time
+Company: Tieto, Czech Republic
+Title:   Windows System Engineer, Internship
+Description:    Internship, as a member 2.nd level support team
+         I was responsible for daily based taks,
+         of resolving tickets from automatic monitoring and
+         human created issues. Our team has managed over
+         15k windows servers, virtual and physical.
+Responsibility: Continous service, clean OS, registry,
+                backups, AD/DC, hardware
+Technologies: Windows Server 2012, 2008, 2003, 2000, NT,
+              VMware, Patrol, Bladelogic, Active Directory,
+              ITIL, TONE, MULESOFT
+Achievements: I have learn a lot during this period about 
+              Tietos windows server infrastructure, and 
+              I have helped to solve some reoccuring 
+              problems with backups or disk space
+         
+
+Date:    September 2013 - December 2013
+Type:    Part-time
+Company: Resultsink s.r.o
+Title:   Customer Support, Helpdesk
+Description:    Provide help to customers regarding products, 
+         Adonis Golden Ratio and Venus Index, which
+         are fitness training programs offered online, 
+         with pdf e-books and advice from professional
+         trainers.
+Technologies:  HTML, Database, Hip-chat, Zendesk
+Achievements:  I have helped many customers to use the
+               product and get familiar with it.
+               I have helped to the developers team with
+               improvement of customers experience by
+               testing and reporting bugs Descriptionribed by
+               our customers
+
+
+Date:    September 2008 - May 2009
+Company: DDM, Astra Zlin
+Title:   Teacher
+Description:    Teaching kids with basic computer skills,
+         I lead small group of 7-10 kids and taught them
+         about PC hardware and software, usage of internet
+         e-mail, etc.
+Achievements:   I leanr how taugh is the teachers live.
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Personal projects and programming
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    account at github
+    member of checkio.org - python programming
+    member of codinggame.com - general programming
+    work on Personal blog - Django + neo4j    
+    AmsterdamByBike - personal web page, Bootstrap,
+                      HTML, CSS, JS, C# .NET MVC
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   Courses and Licenses
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Driving license, B
+    Python for everybody - coursera.org
+    Principles of computing - coursera.ogr
+    Linux basics - edx.com
+    Python and Databases - coursera.org
+    CCNA - Essential knowledge of routing and switching
+           in computers network
+    Learning Dutch - duolingo.com
+    sysadmincasts.com - learning about Linux, UNIX,
+                        Vagrant, Docker
+    
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Languages
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Czech:   Mother Tongue
+    English: Fluent
+    Slovak:  Full understandig
+    Dutch:   learning
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Work Experience - other
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Date:   May 2015
+Type:   Voluntary work
+Event:  IIHF - World Hockey Championship
+Description.:  I have worked as a member of Accreditation 
+        Reception team
+Responsibility: Welcome attendees, check IDs, make photos
+                resolve problems with accreditations   
+
+Date:   June 2015
+Type:   Voluntary work
+Event:  Run Tour Ostrava
+Description.:  Help with organisation of running event,
+
+
+Date:   June 2015
+Type:   Voluntary work
+Event:  Women Run Ostrava
+Description.:  Help with organisation of running event,
+
+
+Date:   Feb 2008 - Dec 2009
+Type:   Red alert 2 community web page
+Description.:  I have been writing articles about the game 
+        mechanics, and organising events such as meet-ups
+        and online tournaments.
+
+Date:   No date
+Type:   Plumber, Allround handy-man
+Description.:  Since my 16 the years I have worked with
+        my father as a craftsman. 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Hobbies 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    BMX riging, reading, watching anime, music (trance),
+    Parkour, game of Go, networks, graphs
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Summary
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    I would sumarize myself as a python explorer and 
+    programming enthiusiast with never ending hunger to
+    learn and discover new things. People usually like me
+    so it's easy to make new friends and colleges.
+    To Descriptionribe myself in 5 words: reliable, helpful, 
+    open-minded, respectful, scientist.
+
+
