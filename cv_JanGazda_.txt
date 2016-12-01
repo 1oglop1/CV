@@ -32,11 +32,20 @@ Date:    July 2016 - present
 Type:    Full-time
 Company: Sapienza Consulting BV, Netherlands
 Title: Eclipse support & Office Technician
-Description: 1.st and 2.nd line support of our product ECLIPSE, providing help to the end users, 
-	     gathering suggestions and complaints to make the product better.
-	     Responsibility for office IT equipment, workstations, servers, network.
-	     Implementation of lifecycle inventory management with CMDBuild, resolving of daily problems,
-	     server checks, installations, making preparations for ISO 27001.
+Description: 1.st and 2.nd and 3.rd line support of our product ECLIPSE, providing help to the end users. 
+	     As an IT Technician I'm responsible for all office equipment, telephones,
+         PCs, Monitors and projectors. 
+         Network and system administration of our infrastructure in combined Windows Server + Linux (Centos/RHEL) environment.
+         Using puppet, mysql, mongodb, postgresql, jboss
+
+Achievements so far completed:
+- Revision of the Network
+- Improvement of Network security
+- Migration of hardware from UK to NL
+
+Ongoing projects:
+- Preparations for ISO 27000
+- User station backup with Synology DSM
 		
 	     
 
@@ -105,14 +114,16 @@ Achievements:   I leanr how taugh is the teachers live.
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    Personal projects and programming
+    Personal projects and programming experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-    account at github
-    member of checkio.org - python programming
-    member of codinggame.com - general programming
-    work on Personal blog - Django + neo4j    
-    AmsterdamByBike - personal web page, Bootstrap,
-                      HTML, CSS, JS, C# .NET MVC
+    account at github - I know how to use GIT
+    member of checkio.org - python programming game
+    member of codinggame.com - programming game
+    work on Personal blog - flask + neo4j - now runs in opera/chrome only until Javascript is tweaked.
+    bachelor thesis: python: graph-tool, cython, numpy
+    I did super small projects in django, selenium, beautifulsoup and web scraping.
+    I prepare to learn about bokeh. 
+    
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    Courses and Licenses
