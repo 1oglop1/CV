@@ -18,6 +18,16 @@ Warning: This file might be out of date, please follow my linkedin_
     Work Experience - professional
 -----------------------------------
 
+:Job Title: Office IT and junior DevOps Engineer
+:Company: Payconiq, Netherlands
+:Date: Jul 2017 – Present
+:Description:
+	* Using python to make my colleagues and mine life easier.
+	* Learning how to manage Kubernetes and getting my way around MongoDB.
+	* Implementing office 365 and Azure AD, SAML SSO.
+	* Utilizing Amazon Web Services (AWS) to deliver the best quality with least amount of management.
+	* Developing oVPN certificate management application
+
 :Job Title: 
     Eclipse support & Office Technician
 :Date:
